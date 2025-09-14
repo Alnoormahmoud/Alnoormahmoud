@@ -18,9 +18,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)
 ![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-
+ 
 ---
 
 ## 📌 Projects
@@ -31,7 +29,6 @@
 - ⚡ More projects coming soon…  
 
 ---
-
 ## 📊 GitHub Stats
 ![Alnoor's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alnoor09&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alnoor09&layout=compact&theme=radical)
