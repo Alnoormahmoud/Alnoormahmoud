@@ -23,8 +23,8 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUserName&layout=compact&theme=radical)
 
 ## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/YourLinkedIn)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:YourEmail@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)]([https://linkedin.com/in/YourLinkedIn](https://www.linkedin.com/in/alnoor-mahmoud-9aba50285/))
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)]([mailto:YourEmail@example.com](https://mail.google.com/mail/u/0/#inbox))
 
 <!--
 **Alnoormahmoud/Alnoormahmoud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
