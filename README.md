@@ -20,7 +20,7 @@
 
 ## 📊 GitHub Stats
 ![Alnoor's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUserName&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUserName&layout=compact&theme=radical)
+![Top Langs](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)]([https://linkedin.com/in/YourLinkedIn](https://www.linkedin.com/in/alnoor-mahmoud-9aba50285/))
