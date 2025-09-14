@@ -30,8 +30,8 @@
 
 ---
 ## 📊 GitHub Stats
-![Alnoor's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alnoor09&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alnoor09&layout=compact&theme=radical)
+![Alnoor's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alnoormahmoud&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alnoormahmoud&layout=compact&theme=radical)
 
 ---
 
