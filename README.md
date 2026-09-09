@@ -1,7 +1,7 @@
 
  # Alnoor Mahmoud
 
-### Software Developer | .NET, Desktop & Web Applications
+### Software Engineer | Back-End .NET, Desktop & Web Applications
 
 I am a software developer focused on building practical, maintainable applications. My experience spans **C#/.NET desktop systems** and modern **web development**, with a strong interest in clean architecture, secure APIs, and solutions that solve real business problems.
 
