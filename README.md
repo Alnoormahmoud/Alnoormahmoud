@@ -1,16 +1,15 @@
+# Alnoor Mahmoud
 
- # Alnoor Mahmoud
+### Junior Full-Stack .NET Developer | Backend-focused
 
-### Software Engineer | Back-End .NET, Desktop & Web Applications
+I build practical, maintainable applications. My foundation is **C# and .NET** (APIs, desktop systems and databases), and I now pair it with a modern **React + TypeScript** frontend so I can deliver complete features from the database to the screen.
 
-I am a software developer focused on building practical, maintainable applications. My experience spans **C#/.NET desktop systems** and modern **web development**, with a strong interest in clean architecture, secure APIs, and solutions that solve real business problems.
-
-I recently worked on **SubZeroPOS**, a real-world point-of-sale and inventory-management system—an experience that strengthened my ability to build production-oriented software rather than only practice projects.
+I recently delivered **SubZeroPOS**, a production point-of-sale system for a real client, and I am currently building **StayFinder**, a full-stack booking platform with a concurrency-safe booking engine.
 
 <p>
   <a href="https://www.linkedin.com/in/alnoor-mahmoud-9aba50285/">LinkedIn</a> ·
   <a href="https://leetcode.com/u/Alnoor09/">LeetCode</a> ·
-  <a href="mailto:alnoormahmou92@gmail.com">Email</a>
+  <a href="mailto:alnoormahmoud92@gmail.com">Email</a>
 </p>
 
 ---
@@ -19,43 +18,52 @@ I recently worked on **SubZeroPOS**, a real-world point-of-sale and inventory-ma
 
 | Area | Technologies & practices |
 | --- | --- |
-| Backend & desktop | C#, .NET, WPF, Windows Forms, Entity Framework Core, SQL Server |
-| Frontend | HTML5, CSS3, JavaScript, TypeScript, React, Tailwind CSS |
-| APIs & security | REST APIs, authentication concepts, API security fundamentals |
-| Engineering | Git, GitHub, SOLID principles, object-oriented programming, clean and maintainable code |
+| Backend | C#, .NET, ASP.NET Core Web API, Entity Framework Core, SQL Server, T-SQL, RESTful APIs |
+| Frontend | React, TypeScript, JavaScript, HTML5, CSS3, Tailwind CSS |
+| Desktop | WPF, Windows Forms, MVVM |
+| Architecture | Clean Architecture, 3-Tier Architecture, SOLID principles, Repository pattern, OOP |
+| Security | Role-based access control, authentication and API security fundamentals |
+| Tools | Git, GitHub, Docker, Postman, Swagger |
 
 ---
 
 ## Featured Work
 
-### [stayfinder](https://github.com/Alnoormahmoud/stayfinder.git)
-Full-stack accommodation booking platform with **ASP.NET Core, React and SQL Server**.
+### [StayFinder](https://github.com/Alnoormahmoud/stayfinder) — Accommodation Booking Platform *(in development)*
+A full-stack marketplace where hosts list places to stay and guests search by city, dates and guests, then book and review them. Built with **ASP.NET Core (.NET 10), EF Core, SQL Server, React and TypeScript**.
+
+- Concurrency-safe booking engine that prevents double bookings (date-overlap rules and transactions)
+- Availability-aware search with filters and pagination
+- Server-side price calculation saved with every booking
+- JWT authentication with Guest, Host and Admin roles
+- Clean Architecture, xUnit tests, Docker Compose and GitHub Actions
+
+**What it demonstrates:** end-to-end full-stack delivery, solving a real concurrency problem, and a testable, layered backend.
 
 ### [SubZeroPOS](https://github.com/Alnoormahmoud/SubZeroPOS) — Point of Sale & Inventory Management
-A real-world POS and inventory-management application built with **C#/.NET, WPF, Entity Framework Core, and SQL Server**. It supports core business operations including sales, inventory, invoicing, users, shifts, backups, and Arabic right-to-left user-interface support.
+A production POS and inventory-management application built for a real client with **C#/.NET, WPF, Entity Framework Core and SQL Server**. It covers sales, inventory, invoicing, users, shifts, backups and Arabic right-to-left support.
 
-**What it demonstrates:** production-oriented desktop development, database design, business workflows, Arabic RTL localization, and maintainable .NET application structure.
+**What it demonstrates:** production-oriented development, database design, business workflows, Arabic RTL localization and a maintainable .NET structure.
+
+### [Sarfa](https://github.com/Alnoormahmoud/Sarfa) — ROSCA Management Platform
+A fintech platform for managing rotating savings groups (ROSCA), built for **SalamHack 2026** with team 249Devs among 300+ participants. It features a RESTful **ASP.NET Core** API, an Integrity Scoring engine and an intermediary wallet system, using **EF Core, SQL Server and Clean Architecture**.
+
+**What it demonstrates:** teamwork under hackathon deadlines, fintech business logic and API design.
 
 ### [DVLD — Drivers and Vehicles Licenses Department](https://github.com/Alnoormahmoud/DVLD)
-A full management system for driver and vehicle licensing, including local and international license issuance, renewal, replacement, and related client services.
-
-### [Inventory & Sales Management System](https://github.com/Alnoormahmoud/Inventory-Sales-Management-System-WinForms-)
-A C# WinForms application for managing products, customers, and sales. Features include barcode scanning, reporting, and Arabic right-to-left support.
-
+A management system for driver and vehicle licensing, including local and international license issuance, renewal, replacement and related client services, built with a 3-tier architecture and SQL Server stored procedures.
 
 ---
 
 ## Currently Developing
 
-- Production-ready web applications with React and TypeScript
-- Secure, well-designed REST APIs
-- Stronger software architecture through SOLID principles
-- Scalable systems that combine thoughtful interfaces with reliable backend logic
+- Full-stack web applications with **React, TypeScript and Tailwind CSS**, connected to secure ASP.NET Core APIs
+- JWT authentication, automated testing with xUnit, and CI/CD with GitHub Actions
+- Docker-based setups for running and deploying complete applications
+- Stronger software architecture through Clean Architecture and SOLID principles
 
 ---
 
 ## Let's Connect
 
-I am open to software-development opportunities, collaboration, and conversations about building useful products. Explore my repositories or connect with me on [LinkedIn](https://www.linkedin.com/in/alnoor-mahmoud-9aba50285/).
-
-
+I am open to junior software-development opportunities, collaboration, and conversations about building useful products. Explore my repositories or connect with me on [LinkedIn](https://www.linkedin.com/in/alnoor-mahmoud-9aba50285/).
