@@ -28,6 +28,9 @@ I recently worked on **SubZeroPOS**, a real-world point-of-sale and inventory-ma
 
 ## Featured Work
 
+### [stayfinder](https://github.com/Alnoormahmoud/stayfinder.git)
+Full-stack accommodation booking platform with **ASP.NET Core, React and SQL Server**.
+
 ### [SubZeroPOS](https://github.com/Alnoormahmoud/SubZeroPOS) — Point of Sale & Inventory Management
 A real-world POS and inventory-management application built with **C#/.NET, WPF, Entity Framework Core, and SQL Server**. It supports core business operations including sales, inventory, invoicing, users, shifts, backups, and Arabic right-to-left user-interface support.
 
@@ -39,8 +42,6 @@ A full management system for driver and vehicle licensing, including local and i
 ### [Inventory & Sales Management System](https://github.com/Alnoormahmoud/Inventory-Sales-Management-System-WinForms-)
 A C# WinForms application for managing products, customers, and sales. Features include barcode scanning, reporting, and Arabic right-to-left support.
 
-### [ATM System](https://github.com/Alnoormahmoud/ATM-System)
-A C++ application that models essential ATM operations such as deposits, withdrawals, transfers, and account-based transactions.
 
 ---
 
